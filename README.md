@@ -7,4 +7,5 @@ Setup:
 
 1. Download any python IDE (I used Sublime Text). 
 2. Download Pygame: http://www.pygame.org/download.shtml\
+3. Watch video of game in action: https://www.youtube.com/watch?v=nDbXY1NKpeA&t=21s
 
